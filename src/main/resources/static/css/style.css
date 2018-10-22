@@ -1,0 +1,10 @@
+#key{
+    color: red
+}
+#box{
+    text-align: center
+}
+body {
+    background-image: url("colorbg.png");
+	width: 100%;
+}
